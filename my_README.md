@@ -4,7 +4,7 @@
 
 ---
 
-# Index.vueの<script>部分での書き方とindex.htmlの<script>部分での書き方
+## Index.vueの<script>部分での書き方とindex.htmlの<script>部分での書き方
 
 には、いくつかの重要な違いがあります。これらの違いは、主にVueコンポーネントの仕組みと通常のJavaScriptファイルの違いから生じています。以下に、それぞれの例とその違いを説明します。
 
